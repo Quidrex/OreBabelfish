@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "orebabelfish",
+    "name": "OreBabelfish",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "description": "Automatically converts items according to the ore dictionary",
+    "updateJSON": "https://raw.githubusercontent.com/quidrex/updateJSON/master/OreBabelfish.json",
+    "authorList": [
+      "Quidrex"
+    ]
+  }
+]
